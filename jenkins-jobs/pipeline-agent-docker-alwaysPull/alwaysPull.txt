@@ -14,3 +14,5 @@ pipeline {
         }
     }
 }
+
+// This is a pipeline that uses a custom Docker image
